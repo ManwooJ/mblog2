@@ -144,9 +144,15 @@ yat:
 #     heading: "Your awesome heading"
 #     subheading: "Your awesome subheading"
 #     banner: "Your image url"
-home:
-     heading: "TESTMAN'S DAILY LIFE"
-     subheading: "Welcome to Testman's blog"
+#home:
+#     heading: "TESTMAN'S DAILY LIFE"
+#     subheading: "Welcome to Testman's blog"
+     
+defaults:
+  home:
+    heading: TESTMAN'S DAILY LIFE"
+    subheading: "Welcome to Testman's blog"
+#    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
