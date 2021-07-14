@@ -144,13 +144,10 @@ yat:
 #     heading: "Your awesome heading"
 #     subheading: "Your awesome subheading"
 #     banner: "Your image url"
-#home:
-#     heading: "TESTMAN'S DAILY LIFE"
-#     subheading: "Welcome to Testman's blog"
      
 defaults:
   home:
-    heading: TESTMAN'S DAILY LIFE"
+    heading: "TESTMAN'S DAILY LIFE"
     subheading: "Welcome to Testman's blog"
 #    banner: "Your image url"
 
